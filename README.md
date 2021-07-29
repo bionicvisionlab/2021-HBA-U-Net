@@ -9,3 +9,13 @@ Please cite as:
 
 The preprint can be found on [arXiv](https://arxiv.org/abs/2107.04721).
 
+### Requirements
+
+- Python 3
+- Keras 2.4.3
+- TensorFlow 2.5.0
+- Scikit-Learn 0.22
+- Skimage 0.16.2
+- cv2 4.1.2
+- PIL 7.1.2
+- Pandas 1.1.5
