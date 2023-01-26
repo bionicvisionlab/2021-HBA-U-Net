@@ -10,7 +10,7 @@ Please cite as:
 
 The preprint can be found on [arXiv](https://arxiv.org/abs/2107.04721) and the published paper [here](https://doi.org/10.1007/978-3-030-87000-3_7).
 
-Check out [Papers with Code](https://paperswithcode.com/paper/u-net-with-hierarchical-bottleneck-attention) to see the Global Rankings. As of 22 March 2022, HBA-U-Net is listed as the state of the art (SOTA) for several popular datasets of retinal degeneration:
+Check out [Papers with Code](https://paperswithcode.com/paper/u-net-with-hierarchical-bottleneck-attention) to see the Global Rankings. As of January 26, 2023, HBA-U-Net is still listed as the state of the art (SOTA) for several popular datasets of retinal degeneration:
 
 - #1 ADAM: Fovea detection
 - #1 ADAM: Optic disc segmentation
