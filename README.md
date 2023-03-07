@@ -1,6 +1,8 @@
 [![license](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/uwescience/pulse2percept/blob/master/LICENSE)
 [![Data](https://img.shields.io/badge/data-osf.io-lightgrey.svg)](https://osf.io/s2udz/)
 [![DOI](https://img.shields.io/badge/DOI-10.1145%2F3458709.3458982-orange)](https://doi.org/10.1007/978-3-030-87000-3_7)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/u-net-with-hierarchical-bottleneck-attention/fovea-detection-on-refuge)](https://paperswithcode.com/sota/fovea-detection-on-refuge?p=u-net-with-hierarchical-bottleneck-attention)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/u-net-with-hierarchical-bottleneck-attention/optic-disc-segmentation-on-adam)](https://paperswithcode.com/sota/optic-disc-segmentation-on-adam?p=u-net-with-hierarchical-bottleneck-attention)
 
 # U-Net with Hierarchical Bottleneck Attention for Landmark Detection in Fundus Images of the Degenerated Retina
 
